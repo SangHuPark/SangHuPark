@@ -1,6 +1,8 @@
 ![Typing SVG](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=200&text=SangHoo's%20GITHUB&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=46)
 
+## 💡 What I'm Learning
 
+<a href="https://velog.io/@tkdgn407/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 ## 💻 Skills
 
@@ -44,4 +46,3 @@
 <br/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgn407" width="48%" />
-
