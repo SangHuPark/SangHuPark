@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Skills
+## 🚀 Skills
 
 <div>
  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -26,7 +26,7 @@
  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </div>
 
-## IDE
+## 💻 IDE
 <div>
  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
