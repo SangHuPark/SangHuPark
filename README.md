@@ -30,6 +30,10 @@
 
 </div>
 
+<br/>
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SangHuPark&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" width = "48%" height="180"/>
