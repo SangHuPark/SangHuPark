@@ -6,6 +6,8 @@
 
 ---
 
+<br/>
+
 ## 🚀 Skills
 <div>
  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
