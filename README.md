@@ -4,14 +4,9 @@
 
 <a href="https://velog.io/@tkdgn407/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
-<br/>
-
 ---
 
-<br/>
-
 ## 🚀 Skills
-
 <div>
  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
