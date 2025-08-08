@@ -1,4 +1,4 @@
-![Typing SVG](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=200&text=SangHu's%20GITHUB&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=46)
+![Typing SVG](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=200&text=Hello,%20I'm%20SangHu&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=46)
 
 ## 💡 What I'm Learning
 
