@@ -4,7 +4,11 @@
 
 <a href="https://velog.io/@tkdgn407/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🚀 Skills
 
@@ -37,6 +41,8 @@
 <br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
