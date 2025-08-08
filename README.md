@@ -41,5 +41,7 @@
 
 </div>
 
+<br/>
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgn407" width="48%" />
 
